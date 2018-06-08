@@ -1,0 +1,11 @@
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\bin\Debug\Lecture03.exe.config
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\bin\Debug\Lecture03.exe
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\bin\Debug\Lecture03.pdb
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\obj\Debug\Lecture03.csprojAssemblyReference.cache
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\obj\Debug\Lecture03.Properties.Resources.resources
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\obj\Debug\Lecture03.WeatherStation.resources
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\obj\Debug\Lecture03.csproj.GenerateResource.cache
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\obj\Debug\Lecture03.csproj.CoreCompileInputs.cache
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\obj\Debug\Lecture03.exe
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\obj\Debug\Lecture03.pdb
+C:\CSharp-Examples\CS297-Examples\Lecture03\Lecture03\obj\Debug\Lecture03.Form1.resources

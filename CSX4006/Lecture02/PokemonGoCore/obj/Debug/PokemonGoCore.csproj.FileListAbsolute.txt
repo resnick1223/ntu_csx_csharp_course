@@ -1,0 +1,12 @@
+C:\Users\resnick\Desktop\Lecture02\PokemonGoCore\bin\Debug\PokemonGoCore.dll
+C:\Users\resnick\Desktop\Lecture02\PokemonGoCore\bin\Debug\PokemonGoCore.pdb
+C:\Users\resnick\Desktop\Lecture02\PokemonGoCore\obj\Debug\PokemonGoCore.csprojAssemblyReference.cache
+C:\Users\resnick\Desktop\Lecture02\PokemonGoCore\obj\Debug\PokemonGoCore.csproj.CoreCompileInputs.cache
+C:\Users\resnick\Desktop\Lecture02\PokemonGoCore\obj\Debug\PokemonGoCore.dll
+C:\Users\resnick\Desktop\Lecture02\PokemonGoCore\obj\Debug\PokemonGoCore.pdb
+C:\Users\resnick\Desktop\CSX4002\Lecture02\PokemonGoCore\obj\Debug\PokemonGoCore.csprojAssemblyReference.cache
+C:\Users\resnick\Desktop\CSX4002\Lecture02\PokemonGoCore\obj\Debug\PokemonGoCore.csproj.CoreCompileInputs.cache
+C:\Users\resnick\Desktop\CSX4002\Lecture02\PokemonGoCore\obj\Debug\PokemonGoCore.dll
+C:\Users\resnick\Desktop\CSX4002\Lecture02\PokemonGoCore\obj\Debug\PokemonGoCore.pdb
+C:\Users\resnick\Desktop\CSX4002\Lecture02\PokemonGoCore\bin\Debug\PokemonGoCore.dll
+C:\Users\resnick\Desktop\CSX4002\Lecture02\PokemonGoCore\bin\Debug\PokemonGoCore.pdb
